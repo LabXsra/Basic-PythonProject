@@ -1,9 +1,6 @@
 # Basic-PythonProject
-This is begineers guide to learn the basic concept through small projects
--guessthenumber.py
--password.py
--rock,paper,scissors.py
--weather_app.py
+This is begineers guide to learn the basic concept through small projects like guessing random number,password generator,rock,paper,scissors and
+weather_app
 
 # 🎲 Number Guessing Game
 
